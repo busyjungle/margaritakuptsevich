@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>S1_75_20</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="home\" />
+    <Folder Include="home\01.HTML\" />
+    <Folder Include="home\02.HTML\" />
+    <Folder Include="home\03.HTML\" />
+  </ItemGroup>
+</Project>

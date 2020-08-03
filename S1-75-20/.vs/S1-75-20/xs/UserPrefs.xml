@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8638FDDB-D400-40D0-B8DB-153EC32F0767}|Default">
+  <MonoDevelop.Ide.ItemProperties.S1-75-20 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="home/01.HTML/Base2.html">
+    <Files>
+      <File FileName="home/01.HTML/Base1.html" Line="13" Column="103" />
+      <File FileName="home/01.HTML/Base2.html" Line="28" Column="10" />
+      <File FileName="home/01.HTML/Base3.html" Line="107" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="S1-75-20" expanded="True">
+            <Node name="S1-75-20" expanded="True">
+              <Node name="home" expanded="True">
+                <Node name="01.HTML" expanded="True">
+                  <Node name="Base2.html" selected="True" />
+                </Node>
+                <Node name="02.HTML" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
